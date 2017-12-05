@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project. 
 
-![picture_title](https://github.com/KrystalRenteria/KrystalRenteria.github.io/blob/master/Joker.PNG?raw=true "Optional Title")
+![Joker](https://github.com/KrystalRenteria/KrystalRenteria.github.io/blob/master/Joker.PNG?raw=true "Optional Title")
 
 ***
